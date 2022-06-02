@@ -1,0 +1,25 @@
+// Place all the styles related to the Posts controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.site-header {
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(54,91,75,0.31416316526610644) 35%, rgba(0,212,255,1) 100%);
+}
+
+.site-header h1 {
+    color:white;
+    text-align: center;
+    
+    
+}
+/* .text center {
+    float:right;
+    display:inline;
+}
+
+#logo  {
+    float:left;
+    display:inline-block;
+    
+}  */
